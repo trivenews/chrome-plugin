@@ -56,6 +56,6 @@
     "content/web/viewer.html"
   ],
   "externally_connectable": {
-    "matches": ["http://meteor.trive.news:8000/*"]
+    "matches": ["*://hive.trive.news/*"]
   }
 }
